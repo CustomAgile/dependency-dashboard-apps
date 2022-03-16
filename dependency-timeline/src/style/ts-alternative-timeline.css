@@ -1,0 +1,21 @@
+.x-border-layout-ct {
+    background-color: white;
+}
+
+.old-ts-timeline-category-cell {
+    padding-left: 5px;
+    padding-right: 5px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: inline-block;
+}
+
+.ts-timeline-category-cell {
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+}
+
+.ts-month-title {
+    text-align: center;
+}
